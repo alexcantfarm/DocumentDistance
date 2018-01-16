@@ -93,7 +93,7 @@ public class DocumentDistance extends Application {
 
         Scene scene = new Scene(root);
         
-        primaryStage.setTitle("Document Distance");
+        primaryStage.setTitle("Document Distance Calculator");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
